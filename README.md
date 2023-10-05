@@ -3,6 +3,10 @@
 ![Screenshot from 2023-10-05 21-31-20](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/b492a04b-77e6-4415-86d7-17e44acba198)
 ![Screenshot from 2023-10-05 21-31-29](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/b867f498-0582-4c6b-bd67-acb2cd64ff50)
 ![Screenshot from 2023-10-05 21-31-36](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/b53c93eb-b371-499e-92c7-1de78a1f175f)
+![Screenshot from 2023-10-05 21-33-28](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/478b475b-138e-4247-af4c-5d1072c019bc)
+![Screenshot from 2023-10-05 21-33-45](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/c9d55dac-1690-4e96-bca0-10b4e9c327dc)
+![Screenshot from 2023-10-05 21-33-49](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/100467e7-c06a-4d54-8213-d46ce77260be)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
