@@ -37,7 +37,6 @@ export default Section
 const Wrap =  styled.div`
   width: 100vw;
   height: 100vh;
-  background:orange;
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center;
