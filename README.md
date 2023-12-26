@@ -1,4 +1,5 @@
 # Getting Started with Create React App and Redux
+ [Link to the Project](https://tesla-clone-4acd4.web.app/)
 
 ![Screenshot from 2023-10-05 21-31-20](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/b492a04b-77e6-4415-86d7-17e44acba198)
 ![Screenshot from 2023-10-05 21-31-29](https://github.com/abungubrighton/tesla-site-clone-react/assets/111748970/b867f498-0582-4c6b-bd67-acb2cd64ff50)
